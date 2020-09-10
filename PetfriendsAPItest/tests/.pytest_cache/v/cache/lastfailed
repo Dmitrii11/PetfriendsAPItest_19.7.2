@@ -1,0 +1,10 @@
+{
+  "test_pet_friends.py": true,
+  "test_pet_friends.py::TestPetFriends::test_add_new_pet_with_valid_data": true,
+  "test_pet_friends.py::TestPetFriends::test_get_all_pets_with_valid_key": true,
+  "test_pet_friends.py::TestPetFriends::test_get_api_key_from_valid_user": true,
+  "test_pet_friends.py::TestPetFriends::test_successful_update_self_pet_info": true,
+  "test_pet_friends.py::test_get_all_pets_with_valid_key": true,
+  "test_pet_friends.py::test_successful_add_pet_photo": true,
+  "test_pet_friends.py::test_sucsessfull_add_pet_photo": true
+}
